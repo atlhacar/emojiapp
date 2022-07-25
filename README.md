@@ -1,1 +1,4 @@
 # emojiapp
+
+npm i 
+
